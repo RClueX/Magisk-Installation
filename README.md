@@ -2,6 +2,8 @@
 ```
 Magisk is a powerful tool for rooting Android devices and offers several features and benefits. 
 ```
+![Magisk](https://github.com/Jkrathod/Magisk-Installation/assets/110445358/0c56b4ed-630b-4ef0-b7ec-bc943fddb73b)
+
 ---
 
 **`Here's a step-by-step guide on how to install Magisk on a Samsung J7 device:`**

@@ -1,10 +1,25 @@
-# Magisk-Installation
-```
-Magisk is a powerful tool for rooting Android devices and offers several features and benefits. 
-```
-![qwwqqqqqq](https://github.com/Jkrathod/Magisk-Installation/assets/110445358/a84b3a69-243b-4ee0-bc5f-d1aa472ec12e)
 
 ---
+
+**Magisk Installtion on Nox**
+
+ Ckick here -[[Nox Emulator_Android 9] Magisk+LSPosed+HMA.zip](https://github.com/RClueX/Magisk-Installation/files/14862085/Nox.Emulator_Android.9.Magisk%2BLSPosed%2BHMA.zip)
+
+> Install both applications on nox.
+
+
+
+---
+
+
+
+
+
+
+
+
+
+**Magisk Installtion on Samsung j7**
 
 **`Here's a step-by-step guide on how to install Magisk on a Samsung J7 device:`**
 
